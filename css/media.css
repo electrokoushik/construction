@@ -1,0 +1,728 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+	/* Header Start */
+	header{
+		padding: 10px 0px;
+	}
+	.logo{
+		width: 70%;
+	}
+	.menu ul li a{
+		width: fit-content;
+		color: #47bbf7 !important;
+		margin: 0 0 10px;
+		padding: 0 0 !important;
+	}
+	.animationBorderBottom:after{
+		border-bottom: 2px solid #47bbf7;
+	}	
+	/* Header End */	
+	/* Banner Start */
+	.banner{
+		padding-bottom: 27px;
+	}
+	.b_text{
+		margin-top: 10px;		
+	}
+	.b_text h1{
+		font-size: 35px;
+	}	
+	.b_text p {
+		margin: 18px 0px;
+		font-size: 16px;
+		line-height: 25px;
+	}
+	.btn_cmn {
+		width: 138px;
+		height: 50px;
+		margin-right: 0px;
+	}	
+	.b_stats {
+		margin-top: 37px;
+	}	
+	.b_stats_text h2 {
+		font-size: 22px;
+	}
+	.b_stats_text p{
+		font-size: 16px;
+	}
+	/* Banner End */
+	/* Vector Start */
+	.vector{
+		visibility: hidden;
+	}
+	/* Vector End */
+	/* Logos Start */
+	.logos{
+		padding-bottom: 27px;
+	}
+	.l_wrapper {
+		padding: 18px;
+	}
+	/* Logos End */	
+	/* Why-Choose-Us Start */
+	.why_choose_us{
+		padding-bottom: 27px;
+	}
+	.why_a{
+		margin-bottom: 20px;
+		text-align: center;
+	}
+	.why_a p {
+		margin: 0px 0px 20px;
+	}
+	.why_b{
+		margin-bottom: 20px;
+		text-align: center;
+	}	
+	.why_b h2 {
+		font-size: 28px;
+		line-height: 40px;
+	}
+	.why_c img {
+		height: 314px;
+		margin-top: 0px;
+	}
+	.why_d {
+		margin-top: 20px;
+	}
+	.w_point{
+		margin-top: 0px;
+	}
+	.w_point h3{
+		font-size: 35px;
+		margin-left: 0px;
+	    text-align: center;
+	}
+	.lime-shape{
+		width: 40px;
+		height: 40px;
+		border-radius: 5px 23px;
+		left: 40%;
+		top: 30px;
+	}
+	.w_point p {
+		margin: 0px;
+	}	
+	/* Why-Choose-Us End */
+	/* Team Start */
+	.team{
+		padding-bottom: 27px;	
+	}	
+	.t_header h2{
+		font-size: 28px;
+		line-height: 40px;
+	}
+	.t_header p {
+		margin: 0px 0px 8px;
+	}
+	.t_slider{
+		padding: 0px 0px;
+	}
+	.t_card {
+		width: fit-content;
+		margin: 20px 0px;
+	}
+	.t_card_top{
+		padding: 20px 10px 0px;
+	}
+	.t_card_bot {
+		margin: 0px auto 0px;
+		padding: 0px 20px 20px;
+	}
+	.t_card_bot img {
+		width: 90px;
+		height: 90px;
+	}
+	.t_card_bot h3 {
+		margin: 16px auto 0;
+		font-size: 20px;
+	}
+	.t_email{
+		font-size: 16px;
+	}	
+	/*Team End */
+	/* Message CEO Start */
+	.ceo{
+		padding-bottom: 27px;
+	}
+	.c_message{
+		padding: 0;
+	}
+	.c_message h2{
+		font-size: 28px;
+	}
+	/* Message CEO End */
+	/* Contact-Us Start */
+	.contact{
+		margin-top: 30px;
+		padding-bottom: 27px;
+	}
+	.c_form {
+		margin-top: 20px;
+		text-align: center;
+	}
+	.c_form input, .c_form textarea{
+		padding: 7px;
+	}
+	.c_form button{
+		width: 150px;
+	}
+	.c_img {
+		margin-top: 20px;
+	}	
+	/* Contac-Us End */
+	/* Blog Start */
+	.blog{
+		padding-bottom: 27px;
+	}
+	.b_ajax {
+		height: 300px;
+	}
+	.b_item h3{
+		font-size: 16px;
+		top: 35%;
+	}
+	.b_item p{
+		top: 45%;
+	}
+	/* Blog End */
+	/* Newsletter Start */
+	.newsletter{
+		padding-bottom: 27px;
+	}
+	/* Newsletter End */
+	/* Fotter Start */
+	.f_link{
+		margin-top: 15px;
+	}
+	.f_b{
+		margin-top: 25px;
+	}
+	/* Footer End */
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/* Header Start */
+	header{
+		padding: 15px 0px;
+	}
+	.logo{
+		width: 80%;
+	}
+	.menu ul li a{
+		width: fit-content;
+		color: #47bbf7 !important;
+		margin: 0 0 10px;
+		padding: 0 0 !important;
+	}
+	.animationBorderBottom:after{
+		border-bottom: 2px solid #47bbf7;
+	}	
+	/* Header End */	
+	/* Banner Start */
+	.banner{
+		padding-bottom: 40px;
+	}
+	.b_text{
+		margin-top: 45px;		
+	}
+	.b_text h1{
+		font-size: 40px;
+	}	
+	.b_text p {
+		margin: 34px 0px;
+		font-size: 18px;
+		line-height: 28px;
+	}	
+	.b_stats{
+		margin-top: 60px;
+	}
+	.b_stats_text h2 {
+		font-size: 35px;
+	}
+	.b_stats_text p{
+		font-size: 18px;
+	}
+	.b_img{
+		height: 576px;
+		margin-top: -4px;
+	}
+	.shape-top{
+		visibility: hidden;
+	}
+	.shape-bottom{
+		visibility: hidden;
+	}
+	/* Banner End */
+	/* Logos Start */
+	.logos{
+		padding-bottom: 40px;
+	}
+	.l_wrapper {
+		padding: 38px 29px;
+	}
+	/* Logos End */
+	/* Why-Choose-Us Start */
+	.why_choose_us{
+		padding-bottom: 50px;
+	}	
+	.why_a{
+		margin-bottom: 20px;
+		text-align: center;
+	}
+	.why_a p {
+		margin: 0px 0px 20px;
+	}
+	.why_b{
+		margin-bottom: 20px;
+		text-align: center;
+	}	
+	.why_b h2 {
+		font-size: 40px;
+		line-height: 50px;
+	}
+	.why_c img {
+		height: 550px;
+		margin-top: 20px;
+	}
+	.w_point{
+		margin-top: 20px;
+	}
+	.w_point h3{
+		font-size: 45px;
+		margin-left: 0px;
+	}
+	.lime-shape{
+		width: 46px;
+		height: 46px;
+		border-radius: 5px 25px;
+	}	
+	/* Why-Choose-Us End */
+	/* Team Start */
+	.team{
+		padding-bottom: 50px;	
+	}
+	.t_header h2{
+		font-size: 40px;
+	}
+	.t_header p {
+		margin-top: 20px;
+	}
+	.t_slider{
+		padding: 0px 45px;
+	}
+	.t_card {
+		width: fit-content;
+		margin: 20px 0px;
+	}
+	.t_card_top{
+		padding: 20px 10px 0px;
+	}
+	.t_card_bot {
+		margin: 0px auto 0px;
+		padding: 0px 20px 20px;
+	}
+	.t_card_bot img {
+		width: 90px;
+		height: 90px;
+	}
+	.t_card_bot h3 {
+		margin: 16px auto 0;
+		font-size: 20px;
+	}
+	.t_email{
+		font-size: 16px;
+	}		
+	/*Team End */
+	/* Message CEO Start */
+	.ceo{
+		padding-bottom: 50px;
+	}
+	.c_message h2{
+		font-size: 40px;
+	}
+	.c_message {
+		padding: 50px 50px 0px;
+	}	
+	/* Message CEO End */
+	/* Contact-Us Start */
+	.contact{
+		margin-top: 30px;
+		padding-bottom: 50px;
+	}
+	.c_form {
+		margin-top: 20px;
+		text-align: center;
+	}
+	.c_img {
+		margin-top: 20px;
+	}
+	/* Contact-Us End */
+	/* Blog Start */
+	.blog{
+		padding-bottom: 50px;
+	}
+	.b_ajax {
+		height: 505px;
+	}
+	/* Blog End */
+	/* Newsletter Start */
+	.newsletter{
+		padding-bottom: 50px;
+	}
+	/* Newsletter End */
+	/* Fotter Start */
+	.f_link{
+		margin-top: 15px;
+	}
+	/* Footer End */	
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px){
+	/* Header Start */
+	.logo{
+		width: 80%;
+	}
+	.menu ul li a{
+		margin: 0 5px;
+	}
+	/* Header End */
+	/* Banner Start */
+	.banner{
+		padding-bottom: 50px;
+	}
+	.b_text{
+		margin-top: 65px;
+	}
+	.b_text h1{
+		font-size: 35px;
+	}
+	.btn_cmn {
+		width: 139px;
+		height: 64px;		
+	}
+	.b_stats {
+		margin-top: 80px;
+	}
+	.half-circle {
+		margin-top: -42px;
+		margin-left: -15px;	
+		width: 40px;
+		height: 20px;
+	}	
+	.b_stats_text h2{
+		font-size: 28px;
+		line-height: 28px;
+	}
+	.b_stats_text p{
+		
+	}
+	.shape-top{
+		left: -80px;
+		top: 36px;
+	}
+	.shape-bottom{
+		width: 0px;
+		height: 0px;
+	}
+	/* Banner End */
+	/* Vector Start */
+	.vector{
+		visibility: hidden;
+	}
+	/* Vector End */	
+	/* Logos Start */
+	.logos{
+		padding-bottom: 50px;
+	}
+	.l_wrapper {
+		padding: 44px 35px;
+	}
+	/* Logos End */	
+	/* Why-Choose-Us Start */
+	.why_choose_us{
+		padding-bottom: 50px;
+	}
+	.why_a p {
+		margin: 10px 0px;
+	}
+	.why_b h2 {
+		font-size: 35px;
+		line-height: 55px;
+	}
+	.why_c img{
+		height: 650px;
+	}
+	.w_point{
+		margin-top: 103px;
+	}
+	.w_point h3{
+		margin-left: 0px;
+		font-size: 45px;
+	}
+	.lime-shape{
+		width: 46px;
+		height: 46px;
+		border-radius: 5px 25px;
+	}	
+	/* Why-Choose-Us End */
+	/* Team Start */
+	.team{
+		padding-bottom: 50px;	
+	}	
+	.t_header h2{
+		font-size: 40px;
+	}
+	.t_header p {
+		margin-top: 20px;
+	}
+	.t_slider{
+		padding: 0px 0px;
+	}
+	.t_card {
+		width: fit-content;
+		margin: 30px 0px;
+	}
+	.t_card_top{
+		padding: 25px 15px 0px;
+	}
+	.t_card_bot {
+		margin: 20px auto 0px;
+		padding: 0px 35px 20px;
+	}
+	.t_card_bot img {
+		width: 100px;
+		height: 100px;
+	}
+	.t_card_bot h3 {
+		margin: 20px auto 0;
+		font-size: 20px;
+	}
+	.t_email{
+		font-size: 17px;
+	}	
+	/* Team End */
+	/* Message CEO Start */
+	.ceo{
+		padding-bottom: 50px;
+	}
+	.c_message h2{
+		font-size: 40px;
+	}
+	/* Message CEO End */
+	/* Contact-Us Start */
+	.contact{
+		padding-bottom: 50px;
+	}
+	.c_form{
+		text-align: center;
+	}
+	.c_form input,.c_form textarea{
+		padding: 10px;
+	}
+	.c_form button{
+		width: 184px;
+	}
+	/* Contact-Us End */
+	/* Blog Start */
+	.blog{
+		padding-bottom: 50px;
+	}
+	.b_ajax {
+		height: 351px;
+	}
+	.b_item h3{
+		top: 40%;
+		top: 40%;
+		font-size: 20px;
+	}
+	.b_item p{
+		top: 50%;
+	}
+	.b_item button{
+		width: 126px;
+		height: 47px;
+	}
+	/* Blog End */
+	/* Newsletter Start */
+	.newsletter{
+		padding-bottom: 50px;
+	}
+	/* Newsletter End */
+	/* Footer Start */
+	.f_link input {
+		padding-right: 23px;
+	}	
+	.f_link i {
+		right: 5px;
+		top: 72px;
+	}
+	/* Footer End */	
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px){ 
+	/* Banner Start */
+	.banner{
+		padding-bottom: 103px;
+	}
+	.b_text{
+		margin-top: 101px;
+	}
+	.b_text h1{
+		font-size: 47px;
+	}
+	.btn_cmn{
+		width: 200px;
+		height: 64px;
+	}
+	.shape-top{
+		left: -80px;
+		top: 36px;
+	}
+	.shape-bottom{
+		top: 614px;
+	}
+	/* Banner End */
+	/* Vector Start */
+	.vector{
+		top: 62%;
+	}
+	/* Vector End */
+	/* Logos Start */
+	.logos{
+		padding-bottom: 70px;
+	}	
+	.l_wrapper{
+		padding: 51px 65px;			
+	}
+	/* Logos End */
+	/* Why-Choose-Us Start */
+	.why_choose_us{
+		padding-bottom: 70px;
+	}	
+	.why_b h2 {
+		font-size: 44px;
+	}
+	.why_c img{
+		height: 750px;
+	}
+	.w_point h3{
+		margin-left: 0px;
+		font-size: 55px;
+	}
+	.lime-shape{
+		width: 56px;
+		height: 56px;
+	}
+	/* Why-Choose-Us End*/
+	/* Team Start */
+	.team{
+		padding-bottom: 70px;	
+	}
+	.t_slider{
+		padding: 0px 0px;
+	}
+	/* Team End */
+	/* Message CEO Start */
+	.ceo{
+		padding-bottom: 70px;
+	}
+	/* Message CEO End */ 
+	/* Contact-Us Start */
+	.contact{
+		padding-bottom: 70px;
+	}
+	/* Contac-Us End */	
+	/* Blog Start */
+	.blog{
+		padding-bottom: 70px;
+	}
+	/* Blog End */
+	/* Newsletter Start */
+	.newsletter{
+		padding-bottom: 70px;
+	}
+	/* Newsletter End */	
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px){ 
+	/* Banner Start */
+	.banner{
+		padding-bottom: 103px;
+	}
+	.b_text{
+		margin-top: 101px;
+	}
+	.b_text h1{
+		font-size: 55px;
+	}
+	.shape-top{
+		top: 54px;
+		left: -106px;
+	}
+	.shape-bottom{
+		top:614px;
+	}
+	/* Banner End */
+	/* Logos Start */
+	.logos{
+		padding-bottom: 103px;
+	}
+	.l_wrapper{
+		padding: 56px 65px;			
+	}
+	/* Logos End */
+	/* Why-Choose-Us Start*/
+	.why_choose_us{
+		padding-bottom: 103px;
+	}
+	.w_point h3{
+		margin-left: 0px;
+	}
+	.why_c img{
+		height: 750px;
+	}
+	.lime-shape{
+		width: 60px;
+		height: 60px;
+	}
+	/* Why-Choose-Us End*/
+	/* Team Start */
+	.team{
+		padding-bottom: 103px;	
+	}	
+	/* Team End */
+	/* Message CEO Start */
+	.ceo{
+		padding-bottom: 103px;
+	}
+	/* Message CEO End */
+	/* Contact-Us Start */
+	.contact{
+		padding-bottom: 103px;
+	}
+	/* Contac-Us End */
+	/* Blog Start */
+	.blog{
+		padding-bottom: 103px;
+	}
+	/* Blog End */
+	/* Newsletter Start */
+	.newsletter{
+		padding-bottom: 103px;
+	}
+	/* Newsletter End */
+	/* Footer Start */
+	
+	/* Footer End */
+}
+
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+	.vector{
+		visibility: hidden;
+	}
+}
